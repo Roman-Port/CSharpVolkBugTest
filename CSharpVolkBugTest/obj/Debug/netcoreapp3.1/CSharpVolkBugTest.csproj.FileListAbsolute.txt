@@ -1,0 +1,13 @@
+Z:\VOLK\bugtest\CSharpVolkBugTest\bin\Debug\netcoreapp3.1\CSharpVolkBugTest.exe
+Z:\VOLK\bugtest\CSharpVolkBugTest\bin\Debug\netcoreapp3.1\CSharpVolkBugTest.deps.json
+Z:\VOLK\bugtest\CSharpVolkBugTest\bin\Debug\netcoreapp3.1\CSharpVolkBugTest.runtimeconfig.json
+Z:\VOLK\bugtest\CSharpVolkBugTest\bin\Debug\netcoreapp3.1\CSharpVolkBugTest.runtimeconfig.dev.json
+Z:\VOLK\bugtest\CSharpVolkBugTest\bin\Debug\netcoreapp3.1\CSharpVolkBugTest.dll
+Z:\VOLK\bugtest\CSharpVolkBugTest\bin\Debug\netcoreapp3.1\CSharpVolkBugTest.pdb
+Z:\VOLK\bugtest\CSharpVolkBugTest\obj\Debug\netcoreapp3.1\CSharpVolkBugTest.csprojAssemblyReference.cache
+Z:\VOLK\bugtest\CSharpVolkBugTest\obj\Debug\netcoreapp3.1\CSharpVolkBugTest.AssemblyInfoInputs.cache
+Z:\VOLK\bugtest\CSharpVolkBugTest\obj\Debug\netcoreapp3.1\CSharpVolkBugTest.AssemblyInfo.cs
+Z:\VOLK\bugtest\CSharpVolkBugTest\obj\Debug\netcoreapp3.1\CSharpVolkBugTest.csproj.CoreCompileInputs.cache
+Z:\VOLK\bugtest\CSharpVolkBugTest\obj\Debug\netcoreapp3.1\CSharpVolkBugTest.dll
+Z:\VOLK\bugtest\CSharpVolkBugTest\obj\Debug\netcoreapp3.1\CSharpVolkBugTest.pdb
+Z:\VOLK\bugtest\CSharpVolkBugTest\obj\Debug\netcoreapp3.1\CSharpVolkBugTest.genruntimeconfig.cache
